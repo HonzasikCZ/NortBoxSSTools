@@ -41,5 +41,5 @@
 
 • Credits: HonzasikCZ | MetalWingsCZ | lukyyyy_ | urscrtluv | drakpro6679 | ykelaa
 
-• Version: 1.5.5
+• Version: 1.5.5 EXP
 ```
