@@ -2,7 +2,7 @@
 # NORTBOX SS TOOLS - 1.5.5 UNSTABLE                                                                                                                      
 ### [ INFORMATION ]
 
-This version of **NortBoxSSTools** may be unstable on some systems due to its compression. For better stability, I recommend using the stable version available at:
+This version of **NortBoxSSTools** has a smaller file size but may be unstable on some systems due to its compression. For better stability, I recommend using the stable version, which is slightly larger, available at:
 https://github.com/HonzasikCZ/NortBoxSSTools/tree/NORMAL.
 
 ### [ INCLUDED TOOLS ]
