@@ -1,6 +1,6 @@
-# NORTBOX SS TOOLS - 1.5.5                                                                                                                    
-
-
+# NORTBOX SS TOOLS - 1.5.5                                                           
+### [ INFORMATION ]
+                                              
 
 ### [ INCLUDED TOOLS ]
 
