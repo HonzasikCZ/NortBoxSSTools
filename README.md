@@ -3,7 +3,7 @@
                                 
 NortBoxSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
 
-There are two versions available: a [stable](https://github.com/HonzasikCZ/NortBoxSSTools/tree/NORMAL) and an [unstable](https://github.com/HonzasikCZ/NortBoxSSTools/tree/UNSTABLE) one. The stable version is larger in size but works reliably across more systems. The unstable version is smaller due to compression, but its downside is reduced stability on certain systems.
+There are two versions available: a [stable](https://github.com/HonzasikCZ/NortBoxSSTools/tree/NORMAL) and an [unstable](https://github.com/HonzasikCZ/NortBoxSSTools/tree/UNSTABLE) one. The stable version is larger in size but works reliably across more systems. The unstable version is smaller due to better compression, but its downside is reduced stability on certain systems.
 
 
 ### [ NOTICED A BUG? ]
