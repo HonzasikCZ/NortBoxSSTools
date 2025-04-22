@@ -8,7 +8,7 @@ There are two versions available: a stable and an unstable one. The stable versi
 
 ### [ NOTICED A BUG? ]
 
-If you’ve noticed a bug, I’d really appreciate it if you reported it here in the GitHub issues.
+If you’ve noticed a bug, I’d really appreciate it if you reported it here in the [GitHub issues](https://github.com/HonzasikCZ/NortBoxSSTools/issues/).
 
 ### [ INCLUDED TOOLS ]
 
