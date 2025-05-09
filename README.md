@@ -30,6 +30,8 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [BrowsingHistoryView](https://www.nirsoft.net/utils/browsinghistoryview.zip)
 
+◼ [VMAware](https://github.com/kernelwernel/VMAware)
+
 ### [ OPTIONAL TOOLS ]
 
 ◼ [Recaf (Java Decompiler)](https://github.com/Col-E/Recaf-Launcher/releases/download/0.8.2/recaf-gui-0.8.2.jar)
