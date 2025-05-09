@@ -32,6 +32,8 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ### [ OPTIONAL TOOLS ]
 
+◼ [Recaf (Java Decompiler)](https://github.com/Col-E/Recaf-Launcher/releases/download/0.8.2/recaf-gui-0.8.2.jar)
+
 ◼ [Luyten (Java Decompiler)](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
 
 ◼ [DiskDigger](https://diskdigger.org/DiskDigger.exe)
