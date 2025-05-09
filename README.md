@@ -14,7 +14,7 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
 
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25099.1530/systeminformer-3.2.25099.1530-canary-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25128.447/systeminformer-3.2.25128.447-canary-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
