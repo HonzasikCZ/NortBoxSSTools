@@ -14,7 +14,7 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
 
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25128.447/systeminformer-3.2.25128.447-canary-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25130.426/systeminformer-3.2.25130.426-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
@@ -32,11 +32,11 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [VMAware](https://github.com/kernelwernel/VMAware)
 
+◼ [Luyten (Java Decompiler)](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
+
 ### [ OPTIONAL TOOLS ]
 
 ◼ [Recaf (Java Decompiler)](https://github.com/Col-E/Recaf-Launcher/releases/download/0.8.2/recaf-gui-0.8.2.jar)
-
-◼ [Luyten (Java Decompiler)](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
 
 ◼ [DiskDigger](https://diskdigger.org/DiskDigger.exe)
 
