@@ -40,6 +40,8 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [DiskDigger](https://diskdigger.org/DiskDigger.exe)
 
+◼ [PreviousFilesRecovery](https://www.nirsoft.net/utils/previousfilesrecovery.zip)
+
 ◼ [Echo USBDeview](https://dl.echo.ac/tool/usb)
 
 ### [ CREDITS ]
