@@ -10,6 +10,10 @@ There are two versions available: a [stable](https://github.com/HonzasikCZ/NortB
 
 If you’ve noticed a bug, I’d really appreciate it if you reported it here in the [GitHub issues](https://github.com/HonzasikCZ/NortBoxSSTools/issues/).
 
+### [ NORTBOX SS TOOLS WEBSITE ]
+
+NortBoxSSTools offers a [website](https://nortboxsstools.vercel.app/) where you can safely download individual SS programs.
+
 ### [ INCLUDED TOOLS ]
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
