@@ -12,7 +12,7 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ### [ NORTBOX SS TOOLS WEBSITE ]
 
-NortBoxSSTools offers a [website](https://nortboxsstools.vercel.app/) where you can safely download individual SS programs.
+NortBoxSSTools offers a trustworthy [website](https://nortboxsstools.vercel.app/) where you can download individual SS programs.
 
 ### [ INCLUDED TOOLS ]
 
