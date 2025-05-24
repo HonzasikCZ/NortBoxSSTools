@@ -18,7 +18,7 @@ NortBoxSSTools offers a trustworthy [website](https://nortboxsstools.vercel.app/
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
 
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25130.426/systeminformer-3.2.25130.426-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25136.1352/systeminformer-3.2.25136.1352-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
