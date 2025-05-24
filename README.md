@@ -14,7 +14,7 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
 
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25130.426/systeminformer-3.2.25130.426-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25136.1352/systeminformer-3.2.25136.1352-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
@@ -22,7 +22,7 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [LastActivityView ](https://www.nirsoft.net/utils/lastactivityview.zip) 
 
-◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1391a.x86.zip)
+◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1392a.x86.zip)
 
 ◼ [USBDeview](https://usbdeview.com/wp-content/uploads/2025/02/usbdeview.zip)  
 
