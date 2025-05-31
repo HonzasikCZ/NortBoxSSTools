@@ -28,7 +28,7 @@ NortBoxSSTools offers a trustworthy [website](https://nortboxsstools.vercel.app/
 
 ◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1393a.x86.zip)
 
-◼ [USBDeview](https://usbdeview.com/wp-content/uploads/2025/02/usbdeview.zip)  
+◼ [DeviceManager](https://www.uwe-sieber.de/files/DeviceCleanup_Win32.zip)  
 
 ◼ [WinPrefetchView](https://www.nirsoft.net/utils/winprefetchview.zip) 
 
