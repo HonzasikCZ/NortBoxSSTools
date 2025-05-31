@@ -22,9 +22,9 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [LastActivityView ](https://www.nirsoft.net/utils/lastactivityview.zip) 
 
-◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1392a.x86.zip)
+◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1393a.x86.zip)
 
-◼ [USBDeview](https://usbdeview.com/wp-content/uploads/2025/02/usbdeview.zip)  
+◼ [DeviceManager](https://www.uwe-sieber.de/files/DeviceCleanup_Win32.zip)  
 
 ◼ [WinPrefetchView](https://www.nirsoft.net/utils/winprefetchview.zip) 
 
