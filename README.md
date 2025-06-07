@@ -20,7 +20,7 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [Echo Journal](https://dl.echo.ac/tool/journal)  
 
-◼ [LastActivityView ](https://www.nirsoft.net/utils/lastactivityview.zip) 
+◼ [LastActivityView](https://www.nirsoft.net/utils/lastactivityview.zip) 
 
 ◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1393a.x86.zip)
 
@@ -28,9 +28,11 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [WinPrefetchView](https://www.nirsoft.net/utils/winprefetchview.zip) 
 
-◼ [BrowsingHistoryView](https://www.nirsoft.net/utils/browsinghistoryview.zip)
+◼ [BrowsingDownloadsView](https://www.nirsoft.net/utils/browserdownloadsview.zip)
 
 ◼ [VMAware](https://github.com/kernelwernel/VMAware)
+
+◼ [InjGen](https://github.com/NotRequiem/InjGen/releases/download/v2.0/InjGen.exe)
 
 ◼ [Luyten (Java Decompiler)](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
 
