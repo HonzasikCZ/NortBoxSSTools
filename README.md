@@ -24,7 +24,7 @@ NortBoxSSTools offers a trustworthy [website](https://nortboxsstools.vercel.app/
 
 ◼ [Echo Journal](https://dl.echo.ac/tool/journal)  
 
-◼ [LastActivityView ](https://www.nirsoft.net/utils/lastactivityview.zip) 
+◼ [LastActivityView](https://www.nirsoft.net/utils/lastactivityview.zip) 
 
 ◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1393a.x86.zip)
 
@@ -32,9 +32,11 @@ NortBoxSSTools offers a trustworthy [website](https://nortboxsstools.vercel.app/
 
 ◼ [WinPrefetchView](https://www.nirsoft.net/utils/winprefetchview.zip) 
 
-◼ [BrowsingHistoryView](https://www.nirsoft.net/utils/browsinghistoryview.zip)
+◼ [BrowsingDownloadsView](https://www.nirsoft.net/utils/browserdownloadsview.zip)
 
 ◼ [VMAware](https://github.com/kernelwernel/VMAware)
+
+◼ [InjGen](https://github.com/NotRequiem/InjGen/releases/download/v2.0/InjGen.exe)
 
 ◼ [Luyten (Java Decompiler)](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
 
