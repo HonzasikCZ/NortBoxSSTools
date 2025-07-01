@@ -1,4 +1,4 @@
-# NORTBOX SS TOOLS - 1.6.1 UNSTABLE                                                        
+# NORTBOX SS TOOLS - 1.6.2 UNSTABLE                                                        
 ### [ INFORMATION ]
                                 
 NortBoxSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
@@ -14,7 +14,7 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
 
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25152.1910/systeminformer-3.2.25152.1910-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25180.1655/systeminformer-3.2.25180.1655-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
@@ -22,7 +22,7 @@ If you’ve noticed a bug, I’d really appreciate it if you reported it here in
 
 ◼ [LastActivityView](https://www.nirsoft.net/utils/lastactivityview.zip) 
 
-◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1393a.x86.zip)
+◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1396a.x86.zip)
 
 ◼ [DeviceManager](https://www.uwe-sieber.de/files/DeviceCleanup_Win32.zip)  
 
