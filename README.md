@@ -1,18 +1,18 @@
-# NORTBOX SS TOOLS - 1.6.3 STABLE                                                          
+# NORTIX SS TOOLS - 1.6.4 STABLE                                                          
 ### [ INFORMATION ]
                                 
-NortBoxSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
+NortixSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
 
-There are two versions available: a [stable](https://github.com/HonzasikCZ/NortBoxSSTools/tree/STABLE) and an [unstable](https://github.com/HonzasikCZ/NortBoxSSTools/tree/UNSTABLE) one. The stable version is larger in size but works reliably across more systems. The unstable version is smaller due to better compression, but its downside is reduced stability on certain systems.
+There are two versions available: a [stable](https://github.com/HonzasikCZ/NortixSSTools/tree/STABLE) and an [unstable](https://github.com/HonzasikCZ/NortixSSTools/tree/UNSTABLE) one. The stable version is larger in size but works reliably across more systems. The unstable version is smaller due to better compression, but its downside is reduced stability on certain systems.
 
 
 ### [ NOTICED A BUG? ]
 
-If you’ve noticed a bug, I’d really appreciate it if you reported it here in the [GitHub issues](https://github.com/HonzasikCZ/NortBoxSSTools/issues/).
+If you’ve noticed a bug, I’d really appreciate it if you reported it here in the [GitHub issues](https://github.com/HonzasikCZ/NortixSSTools/issues/).
 
-### [ NORTBOX SS TOOLS WEBSITE ]
+### [ NORTIX SS TOOLS WEBSITE ]
 
-NortBoxSSTools offers a trustworthy [website](https://nortboxsstools.vercel.app/) where you can download individual SS programs.
+NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) where you can download individual SS programs.
 
 ### [ INCLUDED TOOLS ]
 
