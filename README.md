@@ -16,8 +16,7 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 ### [ INCLUDED TOOLS ]
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
-
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25180.1655/systeminformer-3.2.25180.1655-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25189.2322/systeminformer-3.2.25189.2322-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
@@ -37,11 +36,11 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ◼ [InjGen](https://github.com/NotRequiem/InjGen/releases/download/v2.0/InjGen.exe)
 
-◼ [Luyten (Java Decompiler)](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
+◼ [Luyten](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
 
 ### [ OPTIONAL TOOLS ]
 
-◼ [Recaf (Java Decompiler)](https://github.com/Col-E/Recaf-Launcher/releases/download/0.8.2/recaf-gui-0.8.2.jar)
+◼ [Recaf](https://github.com/Col-E/Recaf-Launcher/releases/download/0.8.7/recaf-gui-0.8.7.jar)
 
 ◼ [DiskDigger](https://diskdigger.org/DiskDigger.exe)
 
