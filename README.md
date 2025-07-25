@@ -1,4 +1,4 @@
-# NORTIX SS TOOLS - 1.6.5 STABLE                                                          
+# NORTIX SS TOOLS - 1.6.6 STABLE                                                          
 ### [ INFORMATION ]
                                 
 NortixSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
@@ -18,7 +18,7 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
 
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25189.2322/systeminformer-3.2.25189.2322-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25205.658/systeminformer-3.2.25205.658-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
