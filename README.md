@@ -1,4 +1,4 @@
-# NORTIX SS TOOLS - 1.6.6 UNSTABLE                                                        
+# NORTIX SS TOOLS - 1.6.7 UNSTABLE                                                        
 ### [ INFORMATION ]
                                 
 NortixSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
@@ -17,7 +17,7 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
 
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25205.658/systeminformer-3.2.25205.658-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25215.2022/systeminformer-3.2.25215.2022-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
@@ -37,15 +37,17 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ◼ [InjGen](https://github.com/NotRequiem/InjGen/releases/download/v2.0/InjGen.exe)
 
-◼ [Luyten](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
+◼ [Jd-Gui](https://github.com/QuentiumYT/jd-gui/releases/download/v1.7.2/jd-gui-windows-1.7.2.zip)
 
 ### [ OPTIONAL TOOLS ]
 
-◼ [Recaf](https://github.com/Col-E/Recaf-Launcher/releases/download/0.8.7/recaf-gui-0.8.7.jar)
+◼ [Recaf](https://github.com/Col-E/Recaf-Launcher/releases/download/0.8.8/recaf-gui-0.8.8.jar)
 
 ◼ [DiskDigger](https://diskdigger.org/DiskDigger.exe)
 
 ◼ [Echo USBDeview](https://dl.echo.ac/tool/usb)
+
+◼ [Luyten](https://github.com/ThexXTURBOXx/Luyten/releases/download/v0.8.2/luyten-0.8.2.exe)
 
 ### [ CREDITS ]
 
