@@ -55,4 +55,4 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 ◼ [HonzasikCZ](https://discordapp.com/users/627919477425831958) | [MetalWingsCZ](https://discordapp.com/users/333661531948449792) | lukyyyy_ | urscrtluv | [drakpro6679](https://discordapp.com/users/1072154046854598697) | [ykelaa](https://discordapp.com/users/1302270003420332092)
 
 
-screenshare tool
+minecraft screenshare tool
