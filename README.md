@@ -1,4 +1,4 @@
-# NORTIX SS TOOLS - 1.6.7 STABLE                                                          
+# NORTIX SS TOOLS - 1.6.8 STABLE                                                          
 ### [ INFORMATION ]
                                 
 NortixSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
@@ -39,6 +39,12 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 ◼ [InjGen](https://github.com/NotRequiem/InjGen/releases/download/v2.0/InjGen.exe)
 
 ◼ [Jd-Gui](https://github.com/QuentiumYT/jd-gui/releases/download/v1.7.2/jd-gui-windows-1.7.2.zip)
+
+◼ [UninstallView](https://www.nirsoft.net/utils/uninstallview.zip)
+
+◼ [WinDefLogView](https://www.nirsoft.net/utils/windeflogview.zip)
+
+◼ [WinDefThreatsView](https://www.nirsoft.net/utils/windefthreatsview.zip)
 
 ### [ OPTIONAL TOOLS ]
 
