@@ -1,4 +1,4 @@
-# NORTIX SS TOOLS - 1.6.8 STABLE                                                          
+# NORTIX SS TOOLS - 1.6.9 STABLE                                                          
 ### [ INFORMATION ]
                                 
 NortixSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
