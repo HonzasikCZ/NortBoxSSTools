@@ -1,4 +1,4 @@
-# NORTIX SS TOOLS - 1.6.9 UNSTABLE                                                        
+# NORTIX SS TOOLS - 1.7.0 UNSTABLE                                                        
 ### [ INFORMATION ]
                                 
 NortixSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
@@ -15,8 +15,6 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ### [ INCLUDED TOOLS ]
 
-◼ [ProcessHacker](https://altushost-swe.dl.sourceforge.net/project/processhacker/processhacker2/processhacker-2.39-bin.zip?viasf=1)
-
 ◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25228.309/systeminformer-3.2.25228.309-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
@@ -25,7 +23,7 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ◼ [LastActivityView](https://www.nirsoft.net/utils/lastactivityview.zip) 
 
-◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1396a.x86.zip)
+◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1399a.x86.zip)
 
 ◼ [DeviceManager](https://www.uwe-sieber.de/files/DeviceCleanup_Win32.zip)  
 
@@ -57,4 +55,4 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ### [ CREDITS ]
 
-◼ [HonzasikCZ](https://discordapp.com/users/627919477425831958) | [MetalWingsCZ](https://discordapp.com/users/333661531948449792) | lukyyyy_ | urscrtluv | [drakpro6679](https://discordapp.com/users/1072154046854598697) | [ykelaa](https://discordapp.com/users/1302270003420332092)
+◼ [HonzasikCZ](https://discordapp.com/users/627919477425831958) | [MetalWingsCZ](https://discordapp.com/users/333661531948449792) | [drakpro6679](https://discordapp.com/users/1072154046854598697) | [ykelaa](https://discordapp.com/users/1302270003420332092)
