@@ -32,7 +32,7 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ◼ [BrowsingDownloadsView](https://www.nirsoft.net/utils/browserdownloadsview.zip)
 
-◼ [VMAware](https://github.com/kernelwernel/VMAware)
+◼ [VMDetector](https://github.com/kernelwernel/VMAware)
 
 ◼ [InjGen](https://github.com/NotRequiem/InjGen/releases/download/v2.0/InjGen.exe)
 
