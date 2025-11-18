@@ -1,4 +1,4 @@
-# NORTIX SS TOOLS - 1.7.0 STABLE                                                          
+# NORTIX SS TOOLS - 1.7.1 STABLE                                                          
 ### [ INFORMATION ]
                                 
 NortixSSTools is a collection of ScreenShare (SS) utility programs for inspecting a player's computer.
@@ -16,7 +16,7 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ### [ INCLUDED TOOLS ]
 
-◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25228.309/systeminformer-3.2.25228.309-bin.zip) 
+◼ [System Informer](https://github.com/winsiderss/si-builds/releases/download/3.2.25316.2456/systeminformer-build-bin.zip) 
 
 ◼ [Echo UserAssist](https://dl.echo.ac/tool/userassist)
 
@@ -24,7 +24,7 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ◼ [LastActivityView](https://www.nirsoft.net/utils/lastactivityview.zip) 
 
-◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1399a.x86.zip)
+◼ [Everything](https://www.voidtools.com/Everything-1.5.0.1400a.x86.zip)
 
 ◼ [DeviceManager](https://www.uwe-sieber.de/files/DeviceCleanup_Win32.zip)  
 
@@ -36,7 +36,7 @@ NortixSSTools offers a trustworthy [website](https://nortixsstools.vercel.app/) 
 
 ◼ [InjGen](https://github.com/NotRequiem/InjGen/releases/download/v2.0/InjGen.exe)
 
-◼ [Jd-Gui](https://github.com/QuentiumYT/jd-gui/releases/download/v1.7.2/jd-gui-windows-1.7.2.zip)
+◼ [Jd-Gui](https://github.com/QuentiumYT/jd-gui/releases/download/v1.7.3/jd-gui-windows-1.7.3.zip)
 
 ◼ [UninstallView](https://www.nirsoft.net/utils/uninstallview.zip)
 
